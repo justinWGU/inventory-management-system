@@ -8,4 +8,4 @@ Academic project I completed back in 2024 for my Backend Programming course. It 
 - Java
 - ThymeLeaf
 
-![App demo](/project-demo.mov)
+![App Preview](/Screenshot%202025-11-05%20at%206.44.29 PM.png)
